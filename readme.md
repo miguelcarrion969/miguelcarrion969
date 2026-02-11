@@ -7,3 +7,12 @@ Escribir sobre nosotros...
 ## Contact me
 
 Hacer el cierre de la presentación, invitando a contactar...
+
+## Hobbies
+
+- Dibujar
+- Programar
+- Diseñar
+- Automatizar
+- Digitalizar
+- Bailar

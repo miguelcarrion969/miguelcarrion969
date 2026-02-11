@@ -7,3 +7,12 @@ Escribir sobre nosotros...
 ## Contact me
 
 Hacer el cierre de la presentación, invitando a contactar...
+
+## Skills
+
+- Autodidacta
+- Solidario 
+- Independiente
+- Colaborador
+- Liderazgo
+- Comunicativo

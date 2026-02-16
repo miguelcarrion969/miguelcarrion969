@@ -9,8 +9,8 @@ Escribir sobre nosotros...
 Hacer el cierre de la presentación, invitando a contactar...
 
 
-
 ## technologies
+
 - Excel
 - Power Bi
 - SQL
@@ -37,3 +37,11 @@ Hacer el cierre de la presentación, invitando a contactar...
 - Colaborador
 - Liderazgo
 - Comunicativo
+
+## Languages
+
+- Español
+- English
+- Quechua
+- Japones
+- Portugues

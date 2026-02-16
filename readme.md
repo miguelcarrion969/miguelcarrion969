@@ -17,3 +17,12 @@ Hacer el cierre de la presentación, invitando a contactar...
 - Canvas
 - R
 - Phyton
+
+## Hobbies
+
+- Dibujar
+- Programar
+- Diseñar
+- Automatizar
+- Digitalizar
+- Bailar
